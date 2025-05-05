@@ -1,3 +1,5 @@
+% Write a PROLOG program to implement the family tree and demonstrate the family relationship.  
+
 male(jawaharlal).
 male(rajiv).
 male(feroz).
